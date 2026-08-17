@@ -1,3 +1,4 @@
+
 # Hi there, I'm ThAolInh20
 <br/>
 
@@ -35,11 +36,6 @@
 </p>
 
 ---
-<p align="center">
-  <a href="https://github.com/konami-command/github-readme-streak-stats">
-    <img align="center" src="https://streak-stats.demolab.com?user=ThAolInh20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
 
 <p align="center">
   <picture>

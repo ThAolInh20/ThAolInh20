@@ -1,6 +1,5 @@
 
 # Hi there, I'm ThAolInh20
-<br/>
 
 ### About Me
 

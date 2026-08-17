@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Thao Linh (ThAolInh20)
+# Hi there, I'm ThAolInh20
 <br/>
 
 ### About Me
